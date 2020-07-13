@@ -7,7 +7,7 @@ I'm currently looking for a new role! Say hi at natashallawson@gmail.com
 - 🔭  I’m currently working on a React Native and Expo app
 - 🌱  I’m currently learning GraphQL
 - 📫  How to reach me: natashallawson@gmail.com
-- ⚡  Fun fact: I've been fully remote and travelling the world since 2014
+- ⚡  Fun fact: I'm also a handpoked tattoo artist
 
 <!--
 **natasha-93/natasha-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
