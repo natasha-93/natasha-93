@@ -5,7 +5,7 @@ I'm a Front End Developer. I like React, TypeScript, and animations.
 I'm currently looking for a new role! Say hi at natashallawson@gmail.com
 
 - 🔭  I’m currently working on a blog app, made with Strapi and GraphQL
-- 🌱  I’m currently learning GraphQL
+- 🌱  I’m currently learning data visualization with D3
 - 📫  How to reach me: natashallawson@gmail.com
 - ⚡  Fun fact: I also do handpoked tattoos!
 
