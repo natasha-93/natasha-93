@@ -1,6 +1,6 @@
 ### Hi there, I'm Natasha 👋
 
-I'm a Front-End Developer. I like React, TypeScript, and animations.
+I'm a Front End Developer. I like React, TypeScript, and animations.
 
 I'm currently looking for a new role! Say hi at natashallawson@gmail.com
 
