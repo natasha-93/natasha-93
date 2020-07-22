@@ -1,4 +1,4 @@
-### Hi there, I'm [Natasha](natashalawson.com) 👋
+### Hi there, I'm [Natasha](www.natashalawson.com) 👋
 
 I'm a Front End Developer. I like React, TypeScript, and animations.
 
@@ -7,7 +7,7 @@ I'm currently looking for a new role! Say hi at natashallawson@gmail.com
 - 🔭  I’m currently working on a React Native and Expo mood tracking app that will work on both web and mobile
 - 🌱  I’m currently learning GraphQL
 - 📫  How to reach me: natashallawson@gmail.com
-- ⚡  Fun fact: I also do [handpoked tattoos](Instagram.com/tashtattoos)!
+- ⚡  Fun fact: I also do [handpoked tattoos](www.Instagram.com/tashtattoos)!
 
 <!--
 **natasha-93/natasha-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
