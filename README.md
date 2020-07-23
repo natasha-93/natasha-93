@@ -2,7 +2,7 @@
 
 I'm a Front End Developer. I like React, TypeScript, and animations.
 
-I'm currently looking for a new role! Say hi at natashallawson@gmail.com
+I'm currently looking for a new remote role! Say hi at natashallawson@gmail.com
 
 - 🔭  I’m currently working on a React Native and Expo mood tracking app that will work on both web and mobile
 - 🌱  I’m currently learning GraphQL
