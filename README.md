@@ -2,10 +2,8 @@
 
 I'm a Front End Developer. I like React, TypeScript, and animations.
 
-I'm currently looking for a new remote role! Say hi at natashallawson@gmail.com
-
-- 🔭  I’m currently working on a React Native and Expo mood tracking app that will work on both web and mobile
-- 🌱  I’m currently learning GraphQL
+- 🔭  I’m currently working on a React/TypeScript project that will help users find relevant movies to watch 
+- 🌱  I’m currently learning GraphQL (and Spanish!)
 - 📫  How to reach me: natashallawson@gmail.com
 - ⚡  Fun fact: I also do [handpoked tattoos](https://www.instagram.com/tashtattoos/)!
 
