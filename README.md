@@ -2,10 +2,7 @@
 
 I'm a Front End Developer. I like React, TypeScript, and animations.
 
-- 🔭  I’m currently working on a React Native/TypeScript bill splitting app - [SPLIT AF](https://www.splitaf.com/)
-- 🌱  I’m currently learning GraphQL (and Spanish!)
 - 📫  How to reach me: natashallawson@gmail.com
-- ⚡  Fun fact: I also do [handpoked tattoos](https://www.instagram.com/tashtattoos/)!
 
 <!--
 **natasha-93/natasha-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
