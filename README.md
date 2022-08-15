@@ -2,7 +2,7 @@
 
 I'm a Front End Developer. I like React, TypeScript, and animations.
 
-- 📫  How to reach me: natashallawson@gmail.com
+📫  How to reach me: natashallawson@gmail.com
 
 <!--
 **natasha-93/natasha-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
